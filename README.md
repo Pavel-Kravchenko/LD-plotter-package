@@ -27,7 +27,7 @@ Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
 
 Now you are ready to start.
 Command 
-```bash script.sh``` and wait until the program is completed. 
+```bash body.sh``` and wait until the program is completed. 
 
 
 ## Contact me
