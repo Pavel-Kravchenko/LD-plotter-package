@@ -12,7 +12,6 @@ Make sure that you have installed all components:
 <li>Biopython 1.70 or upper http://biopython.org/
 <li>R and R-Studio with basic packages https://www.rstudio.com/
 <li>Clustalw http://www.clustal.org/clustal2/
-<li>EMBOSS with fdrawtree and fdrawgram http://evolution.genetics.washington.edu/phylip.html
 </ul>
 
 
